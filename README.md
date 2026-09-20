@@ -26,7 +26,7 @@ A modern, mobile-first responsive landing page engineered for local businesses a
 
 ## ⚡ Performance Highlights
 
-- Optimized asset loading via CDN with `preconnect` resource hints.
+- Optimized Asset loading via CDN with `preconnect` resource hints.
 - Zero heavy third-party framework dependencies for lightweight DOM rendering.
 - Structured modular CSS with reusable variables for scalable theme customization.
 
